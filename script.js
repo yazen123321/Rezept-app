@@ -2,7 +2,7 @@ const rezepte = [
     {
         name: "Kibbeh",
         beschreibung: "Traditionelles syrisches Gericht aus Bulgur, Hackfleisch und Gewürzen.",
-        bild: "images/kibbeh.jpeg"
+        bild: "IMG_2813.jpeg"
     },
     {
         name: "Falafel",
