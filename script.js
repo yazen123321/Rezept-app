@@ -12,12 +12,12 @@ const rezepte = [
     {
         name: "Fattoush",
         beschreibung: "Frischer Salat mit knusprigem Brot und Zitronen-Dressing.",
-        bild: "images/fattoush.jpeg"
+        bild: "IMG_2815.jpeg"
     },
     {
         name: "Baklava",
         beschreibung: "Süßes Gebäck aus Blätterteig mit Nüssen und Honigsirup.",
-        bild: "images/baklava.jpeg"
+        bild: "IMG_2817.jpeg"
     }
 ];
 
