@@ -7,7 +7,7 @@ const rezepte = [
     {
         name: "Falafel",
         beschreibung: "Knusprige Kichererbsenbällchen, perfekt als Snack oder Vorspeise.",
-        bild: "images/falafel.jpeg"
+        bild: "IMG_2814.jpeg"
     },
     {
         name: "Fattoush",
